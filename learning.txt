@@ -1,0 +1,6 @@
+Skills I've learnt sofar
+
+To clone a repository
+to push changes to github
+to fork a repository
+to create a pull requests
